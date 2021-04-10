@@ -59,7 +59,7 @@ www.google.com
     return (
       <div id="app">
         <Container fluid>
-            <Jumbotron className="text-center"><h1>Header</h1></Jumbotron>
+            <Jumbotron className="text-center"><h1>Markdown Previewer</h1></Jumbotron>
           <Row>
             <Col>
               <Jumbotron>
